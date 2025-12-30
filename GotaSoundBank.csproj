@@ -60,7 +60,7 @@
     <Compile Include="SF2\Zone.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GotaSoundIO\GotaSoundIO.csproj">
+    <ProjectReference Include="..\NitroStudio2X\GotaSoundIO\GotaSoundIO.csproj">
       <Project>{F0BCD085-9DC4-4B22-B791-C725CA8E46F6}</Project>
       <Name>GotaSoundIO</Name>
     </ProjectReference>
